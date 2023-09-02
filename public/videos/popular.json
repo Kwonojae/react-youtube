@@ -1,0 +1,413 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "D4nbjxfF-6Ye9A5OGszj82a64XE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "rzI58HvDimyV0LFAWG79_c6fGIE",
+      "id": "G0m_uNaSres",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:19:55Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Super Mario Bros. Wonder Direct 8.31.2023",
+        "description": "Check out the Super Mario Bros. Wonder Direct, featuring roughly 15 minutes of information about Super Mario Bros. Wonder! Coming to Nintendo Switch on October 20, 2023.\n \nPre-order today: https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/\n \n#SuperMarioBrosWonder #NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G0m_uNaSres/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "adventure",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Super Mario Bros. Wonder Direct 8.31.2023",
+          "description": "Check out the Super Mario Bros. Wonder Direct, featuring roughly 15 minutes of information about Super Mario Bros. Wonder! Coming to Nintendo Switch on October 20, 2023.\n \nPre-order today: https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/\n \n#SuperMarioBrosWonder #NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2440323",
+        "likeCount": "112640",
+        "favoriteCount": "0",
+        "commentCount": "8954"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PNMn-H09G96yC0DCAQTsO4g3nDU",
+      "id": "KudedLV0tP0",
+      "snippet": {
+        "publishedAt": "2023-08-31T12:17:49Z",
+        "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+        "title": "TAYLOR SWIFT | THE ERAS TOUR Concert Film Official Trailer",
+        "description": "Get tickets now to see TAYLOR SWIFT | THE ERAS TOUR Concert Film only in theaters in North America beginning 10/13. \n\nhttps://taylor.lnk.to/TSTheErasTourFilmTickets\n\nThe cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!\n\n►Pre-order 1989 (Taylor's Version), out October 27: https://taylor.lnk.to/1989taylorsversion \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift:\nTikTok: http://tiktok.com/@taylorswift\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n#taylorswift",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KudedLV0tP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taylor Swift",
+        "tags": [
+          "the eras tour",
+          "taylor swift",
+          "eras tour",
+          "taylor swift live",
+          "the eras tour stream",
+          "taylor swift concert",
+          "taylor swift tour",
+          "cruel summer"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TAYLOR SWIFT | THE ERAS TOUR Concert Film Official Trailer",
+          "description": "Get tickets now to see TAYLOR SWIFT | THE ERAS TOUR Concert Film only in theaters in North America beginning 10/13. \n\nhttps://taylor.lnk.to/TSTheErasTourFilmTickets\n\nThe cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour. Taylor Swift Eras attire and friendship bracelets are strongly encouraged!\n\n►Pre-order 1989 (Taylor's Version), out October 27: https://taylor.lnk.to/1989taylorsversion \n►Shop Merch: http://taylorswift.lnk.to/store\n\n►Follow Taylor Swift:\nTikTok: http://tiktok.com/@taylorswift\nInstagram: http://instagram.com/taylorswift  \nTwitter: http://twitter.com/taylorswift13  \nSnapchat: http://snapchat.com/add/taylorswift\nFacebook: http://facebook.com/taylorswift  \nTumblr: http://taylorswift.tumblr.com  \nWebsite: http://www.taylorswift.com  \n\n►Follow Taylor Nation Online\nTikTok: http://tiktok.com/@taylornation\nInstagram: http://instagram.com/taylornation  \nTwitter: http://twitter.com/taylornation13\nTumblr: http://taylornation.tumblr.com  \n\n#taylorswift"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1508577",
+        "likeCount": "191213",
+        "favoriteCount": "0",
+        "commentCount": "11820"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IhmOKWuYmtuoHup4xWDFyThu0F8",
+      "id": "qwtyEKTGGQ8",
+      "snippet": {
+        "publishedAt": "2023-09-01T04:00:09Z",
+        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+        "title": "Doja Cat - Demons (Official Video)",
+        "description": "Doja Cat // Demons // Get It Here // https://DojaCat.lnk.to/demons\n\nNew Album \"Scarlet\" Available 9.22 // https://dojacat.lnk.to/scarlet \n\nDirected by: Christian Breslauer & Doja Cat\nProducers: Michael Breslauer, Sam Houston, Luga Podesta, Nicholas Pistone, Brandon Bonfiglio, Andrew Lerios\nCreative Director: Brett Alan Nelson\nDirector of Photography: Elias Talbot\nProduction Designer: Alex Delgado\nProduction Company: London Alley & The Lucky Bastards Inc.\n\n\nFollow Doja Cat:\nhttp://www.dojacat.com/\nhttps://www.instagram.com/dojacat/\nhttps://twitter.com/DojaCat\nhttps://www.facebook.com/DojaCat\n \nSubscribe to Doja Cat's Official YouTube Channel: https://DojaCat.lnk.to/YTSubscribe\n \n#DojaCat #Demons #Scarlet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qwtyEKTGGQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qwtyEKTGGQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qwtyEKTGGQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qwtyEKTGGQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qwtyEKTGGQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dojacatVEVO",
+        "tags": [
+          "Doja cat",
+          "paint the town red",
+          "demons",
+          "scarlet",
+          "new Doja cat",
+          "Doja cat ptr",
+          "paint the town red tiktok trend",
+          "dance challenge",
+          "poltergeist",
+          "cinespia",
+          "Hollywood forever cemetery",
+          "Doja cat album",
+          "she the devil",
+          "how my demons look",
+          "Doja cat horror",
+          "kiss me more",
+          "sza",
+          "attention",
+          "say so",
+          "moo",
+          "rico nasty",
+          "tia Tamera",
+          "juicy",
+          "Nicki Minaj",
+          "boss bitch",
+          "hot pink",
+          "Vegas",
+          "Elvis",
+          "streets",
+          "wine pot you",
+          "Doja cat twitter",
+          "the Weeknd"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Doja Cat - Demons (Official Video)",
+          "description": "Doja Cat // Demons // Get It Here // https://DojaCat.lnk.to/demons\n\nNew Album \"Scarlet\" Available 9.22 // https://dojacat.lnk.to/scarlet \n\nDirected by: Christian Breslauer & Doja Cat\nProducers: Michael Breslauer, Sam Houston, Luga Podesta, Nicholas Pistone, Brandon Bonfiglio, Andrew Lerios\nCreative Director: Brett Alan Nelson\nDirector of Photography: Elias Talbot\nProduction Designer: Alex Delgado\nProduction Company: London Alley & The Lucky Bastards Inc.\n\n\nFollow Doja Cat:\nhttp://www.dojacat.com/\nhttps://www.instagram.com/dojacat/\nhttps://twitter.com/DojaCat\nhttps://www.facebook.com/DojaCat\n \nSubscribe to Doja Cat's Official YouTube Channel: https://DojaCat.lnk.to/YTSubscribe\n \n#DojaCat #Demons #Scarlet"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "402033",
+        "likeCount": "81815",
+        "favoriteCount": "0",
+        "commentCount": "9193"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sBijDywEKrdiYMeUaIG6LgkI3rs",
+      "id": "-vDwN0HDDqw",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:08:41Z",
+        "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+        "title": "Starfield - Before You Buy",
+        "description": "Starfield (PC, Xbox Series X/S) is the newest game from the creators of Elder Scrolls: Skyrim, Fallout 4, and more. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nBuy Starfield: https://amzn.to/3L5ZfTk\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#starfield",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vDwN0HDDqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "gameranx",
+        "tags": [
+          "Starfield",
+          "Starfield game review",
+          "Starfield gameplay",
+          "Starfield before you buy",
+          "before you buy Starfield",
+          "Starfield xbox gameplay",
+          "Starfield pc gameplay",
+          "starfield worlds",
+          "Starfield space travel",
+          "starfield combat",
+          "Starfield story",
+          "Starfield review",
+          "Starfield bugs",
+          "Starfield graphics",
+          "starfield glitches",
+          "Starfield performance",
+          "Gameranx",
+          "Jake Baldino"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Starfield - Before You Buy",
+          "description": "Starfield (PC, Xbox Series X/S) is the newest game from the creators of Elder Scrolls: Skyrim, Fallout 4, and more. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nBuy Starfield: https://amzn.to/3L5ZfTk\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#starfield"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1480417",
+        "likeCount": "67039",
+        "favoriteCount": "0",
+        "commentCount": "9659"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8T9Rs_plRg_jTOuCjAw6zl1JtZw",
+      "id": "nMMNkfSQuiU",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:00:38Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Starfield Review",
+        "description": "Starfield reviewed on PC and Xbox Series X by Dan Stapleton.\nIt’s never a great sign when someone recommends a game on the grounds that it gets good after more than a dozen hours, but that’s very much the kind of game Starfield is, and I do recommend it. There are a lot of forces working against it, and the combination of disjointed space travel, nonexistent maps, aggravating inventory management, and a slow rollout of essential abilities very nearly did it in. It was the joys piloting a custom spaceship into and out of all sorts of morally ambiguous situations in a rich sci-fi universe that eventually pulled it out of a nosedive. I’m glad that I powered through the early hours, because its interstellar mystery story pays off and, once the ball got rolling, combat on foot and in space gradually became good enough that its momentum carried me into New Game+ after I’d finished the main story after around 60 hours. Like Skryim and Fallout 4 before it, there’s still an immense amount of quality roleplaying quests and interesting NPCs out there, waiting to be stumbled across, and the pull to seek it out is strong.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nMMNkfSQuiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IGN",
+        "tags": [
+          "Bethesda Game Studios",
+          "Bethesda Softworks",
+          "Creation Engine 2",
+          "New Game+",
+          "Open-World",
+          "PC",
+          "RPG",
+          "Starfield",
+          "Xbox Series X|S",
+          "starfield review",
+          "starfield review ign",
+          "ign review",
+          "ign reviews",
+          "ign",
+          "ign game reviews",
+          "video game reviews",
+          "ign game review",
+          "video game review",
+          "starfield reaction",
+          "starfield impressions"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Starfield Review",
+          "description": "Starfield reviewed on PC and Xbox Series X by Dan Stapleton.\nIt’s never a great sign when someone recommends a game on the grounds that it gets good after more than a dozen hours, but that’s very much the kind of game Starfield is, and I do recommend it. There are a lot of forces working against it, and the combination of disjointed space travel, nonexistent maps, aggravating inventory management, and a slow rollout of essential abilities very nearly did it in. It was the joys piloting a custom spaceship into and out of all sorts of morally ambiguous situations in a rich sci-fi universe that eventually pulled it out of a nosedive. I’m glad that I powered through the early hours, because its interstellar mystery story pays off and, once the ball got rolling, combat on foot and in space gradually became good enough that its momentum carried me into New Game+ after I’d finished the main story after around 60 hours. Like Skryim and Fallout 4 before it, there’s still an immense amount of quality roleplaying quests and interesting NPCs out there, waiting to be stumbled across, and the pull to seek it out is strong."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT12M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "964638",
+        "likeCount": "20821",
+        "favoriteCount": "0",
+        "commentCount": "5628"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
